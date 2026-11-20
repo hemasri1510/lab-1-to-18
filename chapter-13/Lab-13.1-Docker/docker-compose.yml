@@ -1,0 +1,45 @@
+services:
+  mongo1:
+    image: mongo:7
+    container_name: lab13-mongo1
+    command: ["sh", "-c", "cp /keyfile-src/keyfile /tmp/keyfile && chmod 400 /tmp/keyfile && exec mongod --replSet rs0 --keyFile /tmp/keyfile --bind_ip_all"]
+    ports:
+      - "27021:27017"
+    volumes:
+      - mongo1_data:/data/db
+      - ./keyfile:/keyfile-src/keyfile:ro
+    networks:
+      - mongo_network
+
+  mongo2:
+    image: mongo:7
+    container_name: lab13-mongo2
+    command: ["sh", "-c", "cp /keyfile-src/keyfile /tmp/keyfile && chmod 400 /tmp/keyfile && exec mongod --replSet rs0 --keyFile /tmp/keyfile --bind_ip_all"]
+    ports:
+      - "27022:27017"
+    volumes:
+      - mongo2_data:/data/db
+      - ./keyfile:/keyfile-src/keyfile:ro
+    networks:
+      - mongo_network
+
+  mongo3:
+    image: mongo:7
+    container_name: lab13-mongo3
+    command: ["sh", "-c", "cp /keyfile-src/keyfile /tmp/keyfile && chmod 400 /tmp/keyfile && exec mongod --replSet rs0 --keyFile /tmp/keyfile --bind_ip_all"]
+    ports:
+      - "27023:27017"
+    volumes:
+      - mongo3_data:/data/db
+      - ./keyfile:/keyfile-src/keyfile:ro
+    networks:
+      - mongo_network
+
+volumes:
+  mongo1_data:
+  mongo2_data:
+  mongo3_data:
+
+networks:
+  mongo_network:
+    driver: bridge

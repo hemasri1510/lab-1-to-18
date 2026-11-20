@@ -1,0 +1,175 @@
+[{
+  "_id": {
+    "$oid": "6a9ef0ca7f0ffb0e3f453944"
+  },
+  "post_id": 1,
+  "title": "Beautiful Travel Destination",
+  "author": "Arjun",
+  "content": "Exploring beautiful places and enjoying nature.",
+  "media": {
+    "type": "image",
+    "source": "Pinterest",
+    "url": "https://in.pinterest.com/pin/1002473198305670082/"
+  },
+  "created_at": {
+    "$date": "2026-09-01T00:00:00.000Z"
+  },
+  "comments": [
+    {
+      "comment_id": 1,
+      "author": "Kavya",
+      "text": "This place looks amazing!",
+      "created_at": {
+        "$date": "2026-09-01T00:00:00.000Z"
+      }
+    },
+    {
+      "comment_id": 2,
+      "author": "Neha",
+      "text": "I would love to visit this place.",
+      "created_at": {
+        "$date": "2026-09-01T00:00:00.000Z"
+      }
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a9ef0ca7f0ffb0e3f453945"
+  },
+  "post_id": 2,
+  "title": "My Tech Setup",
+  "author": "Sneha",
+  "content": "Sharing my simple and aesthetic study setup.",
+  "media": {
+    "type": "image",
+    "source": "Pinterest",
+    "url": "https://in.pinterest.com/pin/1105281933548985957/"
+  },
+  "created_at": {
+    "$date": "2026-09-02T00:00:00.000Z"
+  },
+  "comments": [
+    {
+      "comment_id": 3,
+      "author": "Arjun",
+      "text": "Your setup looks really clean.",
+      "created_at": {
+        "$date": "2026-09-02T00:00:00.000Z"
+      }
+    },
+    {
+      "comment_id": 4,
+      "author": "Vikram",
+      "text": "The setup is simple and nice.",
+      "created_at": {
+        "$date": "2026-09-02T00:00:00.000Z"
+      }
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a9ef0ca7f0ffb0e3f453946"
+  },
+  "post_id": 3,
+  "title": "Food Photography",
+  "author": "Rahul",
+  "content": "Trying some food photography techniques today.",
+  "media": {
+    "type": "image",
+    "source": "Pinterest",
+    "url": "https://in.pinterest.com/pin/18999629672144745/"
+  },
+  "created_at": {
+    "$date": "2026-09-03T00:00:00.000Z"
+  },
+  "comments": [
+    {
+      "comment_id": 5,
+      "author": "Sneha",
+      "text": "The food looks delicious!",
+      "created_at": {
+        "$date": "2026-09-03T00:00:00.000Z"
+      }
+    },
+    {
+      "comment_id": 6,
+      "author": "Divya",
+      "text": "Great photography skills.",
+      "created_at": {
+        "$date": "2026-09-03T00:00:00.000Z"
+      }
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a9ef0ca7f0ffb0e3f453947"
+  },
+  "post_id": 4,
+  "title": "Nature Photography",
+  "author": "Divya",
+  "content": "A peaceful day surrounded by nature.",
+  "media": {
+    "type": "image",
+    "source": "Pinterest",
+    "url": "https://in.pinterest.com/pin/aesthetic-photography-nature--777433954451544172/"
+  },
+  "created_at": {
+    "$date": "2026-09-04T00:00:00.000Z"
+  },
+  "comments": [
+    {
+      "comment_id": 7,
+      "author": "Rahul",
+      "text": "Nature always looks beautiful.",
+      "created_at": {
+        "$date": "2026-09-04T00:00:00.000Z"
+      }
+    },
+    {
+      "comment_id": 8,
+      "author": "Kavya",
+      "text": "Such a peaceful view!",
+      "created_at": {
+        "$date": "2026-09-04T00:00:00.000Z"
+      }
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a9ef0ca7f0ffb0e3f453948"
+  },
+  "post_id": 5,
+  "title": "Travel Video",
+  "author": "Vikram",
+  "content": "Sharing an interesting travel video.",
+  "media": {
+    "type": "video",
+    "source": "YouTube",
+    "url": "https://www.youtube.com/watch?v=WA69w6hYTWs"
+  },
+  "created_at": {
+    "$date": "2026-09-05T00:00:00.000Z"
+  },
+  "comments": [
+    {
+      "comment_id": 9,
+      "author": "Neha",
+      "text": "Nice travel video.",
+      "created_at": {
+        "$date": "2026-09-05T00:00:00.000Z"
+      }
+    },
+    {
+      "comment_id": 10,
+      "author": "Arjun",
+      "text": "This makes me want to travel.",
+      "created_at": {
+        "$date": "2026-09-05T00:00:00.000Z"
+      }
+    }
+  ]
+}]

@@ -1,0 +1,2923 @@
+[
+    {
+        "sku": "AMZ-001",
+        "name": "Beading & Jewelry Making",
+        "amazon_id": 1,
+        "category": "Beading & Jewelry Making",
+        "price": 37.0,
+        "stock": 7,
+        "tags": [
+            "general"
+        ]
+    },
+    {
+        "sku": "AMZ-002",
+        "name": "Fabric Decorating",
+        "amazon_id": 2,
+        "category": "Fabric Decorating",
+        "price": 54.0,
+        "stock": 14,
+        "tags": [
+            "general"
+        ]
+    },
+    {
+        "sku": "AMZ-003",
+        "name": "Knitting & Crochet Supplies",
+        "amazon_id": 3,
+        "category": "Knitting & Crochet Supplies",
+        "price": 71.0,
+        "stock": 21,
+        "tags": [
+            "crafts",
+            "popular"
+        ]
+    },
+    {
+        "sku": "AMZ-004",
+        "name": "Printmaking Supplies",
+        "amazon_id": 4,
+        "category": "Printmaking Supplies",
+        "price": 88.0,
+        "stock": 28,
+        "tags": [
+            "general"
+        ]
+    },
+    {
+        "sku": "AMZ-005",
+        "name": "Scrapbooking & Stamping Supplies",
+        "amazon_id": 5,
+        "category": "Scrapbooking & Stamping Supplies",
+        "price": 105.0,
+        "stock": 35,
+        "tags": [
+            "crafts",
+            "premium"
+        ]
+    },
+    {
+        "sku": "AMZ-006",
+        "name": "Sewing Products",
+        "amazon_id": 6,
+        "category": "Sewing Products",
+        "price": 122.0,
+        "stock": 42,
+        "tags": [
+            "crafts",
+            "popular",
+            "premium"
+        ]
+    },
+    {
+        "sku": "AMZ-007",
+        "name": "Craft & Hobby Fabric",
+        "amazon_id": 7,
+        "category": "Craft & Hobby Fabric",
+        "price": 139.0,
+        "stock": 49,
+        "tags": [
+            "crafts",
+            "premium"
+        ]
+    },
+    {
+        "sku": "AMZ-008",
+        "name": "Needlework Supplies",
+        "amazon_id": 8,
+        "category": "Needlework Supplies",
+        "price": 25.0,
+        "stock": 5,
+        "tags": [
+            "crafts"
+        ]
+    },
+    {
+        "sku": "AMZ-009",
+        "name": "Arts, Crafts & Sewing Storage",
+        "amazon_id": 9,
+        "category": "Arts, Crafts & Sewing Storage",
+        "price": 42.0,
+        "stock": 12,
+        "tags": [
+            "crafts",
+            "popular"
+        ]
+    },
+    {
+        "sku": "AMZ-010",
+        "name": "Painting, Drawing & Art Supplies",
+        "amazon_id": 10,
+        "category": "Painting, Drawing & Art Supplies",
+        "price": 59.0,
+        "stock": 19,
+        "tags": [
+            "crafts"
+        ]
+    },
+    {
+        "sku": "AMZ-011",
+        "name": "Craft Supplies & Materials",
+        "amazon_id": 11,
+        "category": "Craft Supplies & Materials",
+        "price": 76.0,
+        "stock": 26,
+        "tags": [
+            "crafts"
+        ]
+    },
+    {
+        "sku": "AMZ-012",
+        "name": "Gift Wrapping Supplies",
+        "amazon_id": 12,
+        "category": "Gift Wrapping Supplies",
+        "price": 93.0,
+        "stock": 33,
+        "tags": [
+            "general",
+            "popular"
+        ]
+    },
+    {
+        "sku": "AMZ-013",
+        "name": "Party Decorations",
+        "amazon_id": 13,
+        "category": "Party Decorations",
+        "price": 110.0,
+        "stock": 40,
+        "tags": [
+            "crafts",
+            "premium"
+        ]
+    },
+    {
+        "sku": "AMZ-014",
+        "name": "Automotive Paint & Paint Supplies",
+        "amazon_id": 14,
+        "category": "Automotive Paint & Paint Supplies",
+        "price": 127.0,
+        "stock": 47,
+        "tags": [
+            "electronics",
+            "premium"
+        ]
+    },
+    {
+        "sku": "AMZ-015",
+        "name": "Heavy Duty & Commercial Vehicle Equipment",
+        "amazon_id": 15,
+        "category": "Heavy Duty & Commercial Vehicle Equipment",
+        "price": 144.0,
+        "stock": 3,
+        "tags": [
+            "general",
+            "popular",
+            "premium"
+        ]
+    },
+    {
+        "sku": "AMZ-016",
+        "name": "Automotive Tires & Wheels",
+        "amazon_id": 16,
+        "category": "Automotive Tires & Wheels",
+        "price": 30.0,
+        "stock": 10,
+        "tags": [
+            "electronics"
+        ]
+    },
+    {
+        "sku": "AMZ-017",
+        "name": "Automotive Tools & Equipment",
+        "amazon_id": 17,
+        "category": "Automotive Tools & Equipment",
+        "price": 47.0,
+        "stock": 17,
+        "tags": [
+            "electronics"
+        ]
+    },
+    {
+        "sku": "AMZ-018",
+        "name": "Automotive Performance Parts & Accessories",
+        "amazon_id": 18,
+        "category": "Automotive Performance Parts & Accessories",
+        "price": 64.0,
+        "stock": 24,
+        "tags": [
+            "electronics",
+            "crafts"
+        ]
+    },
+    {
+        "sku": "AMZ-019",
+        "name": "Car Care",
+        "amazon_id": 19,
+        "category": "Car Care",
+        "price": 81.0,
+        "stock": 31,
+        "tags": [
+            "general"
+        ]
+    },
+    {
+        "sku": "AMZ-020",
+        "name": "Oils & Fluids",
+        "amazon_id": 20,
+        "category": "Oils & Fluids",
+        "price": 98.0,
+        "stock": 38,
+        "tags": [
+            "general",
+            "electronics",
+            "wireless"
+        ]
+    },
+    {
+        "sku": "AMZ-021",
+        "name": "Automotive Replacement Parts",
+        "amazon_id": 21,
+        "category": "Automotive Replacement Parts",
+        "price": 115.0,
+        "stock": 45,
+        "tags": [
+            "electronics",
+            "crafts",
+            "premium"
+        ]
+    },
+    {
+        "sku": "AMZ-022",
+        "name": "Lights, Bulbs & Indicators",
+        "amazon_id": 22,
+        "category": "Lights, Bulbs & Indicators",
+        "price": 132.0,
+        "stock": 1,
+        "tags": [
+            "general",
+            "premium"
+        ]
+    },
+    {
+        "sku": "AMZ-023",
+        "name": "Automotive Interior Accessories",
+        "amazon_id": 23,
+        "category": "Automotive Interior Accessories",
+        "price": 149.0,
+        "stock": 8,
+        "tags": [
+            "electronics",
+            "premium"
+        ]
+    },
+    {
+        "sku": "AMZ-024",
+        "name": "Automotive Exterior Accessories",
+        "amazon_id": 24,
+        "category": "Automotive Exterior Accessories",
+        "price": 35.0,
+        "stock": 15,
+        "tags": [
+            "electronics",
+            "popular"
+        ]
+    },
+    {
+        "sku": "AMZ-025",
+        "name": "Automotive Enthusiast Merchandise",
+        "amazon_id": 25,
+        "category": "Automotive Enthusiast Merchandise",
+        "price": 52.0,
+        "stock": 22,
+        "tags": [
+            "electronics"
+        ]
+    },
+    {
+        "sku": "AMZ-026",
+        "name": "Car Electronics & Accessories",
+        "amazon_id": 26,
+        "category": "Car Electronics & Accessories",
+        "price": 69.0,
+        "stock": 29,
+        "tags": [
+            "electronics"
+        ]
+    },
+    {
+        "sku": "AMZ-027",
+        "name": "RV Parts & Accessories",
+        "amazon_id": 27,
+        "category": "RV Parts & Accessories",
+        "price": 86.0,
+        "stock": 36,
+        "tags": [
+            "crafts",
+            "popular"
+        ]
+    },
+    {
+        "sku": "AMZ-028",
+        "name": "Motorcycle & Powersports",
+        "amazon_id": 28,
+        "category": "Motorcycle & Powersports",
+        "price": 103.0,
+        "stock": 43,
+        "tags": [
+            "general",
+            "premium"
+        ]
+    },
+    {
+        "sku": "AMZ-029",
+        "name": "Baby Diapering Products",
+        "amazon_id": 29,
+        "category": "Baby Diapering Products",
+        "price": 120.0,
+        "stock": 50,
+        "tags": [
+            "general",
+            "premium"
+        ]
+    },
+    {
+        "sku": "AMZ-030",
+        "name": "Baby & Toddler Feeding Supplies",
+        "amazon_id": 30,
+        "category": "Baby & Toddler Feeding Supplies",
+        "price": 137.0,
+        "stock": 6,
+        "tags": [
+            "general",
+            "popular",
+            "premium"
+        ]
+    },
+    {
+        "sku": "AMZ-031",
+        "name": "Pregnancy & Maternity Products",
+        "amazon_id": 31,
+        "category": "Pregnancy & Maternity Products",
+        "price": 23.0,
+        "stock": 13,
+        "tags": [
+            "general"
+        ]
+    },
+    {
+        "sku": "AMZ-032",
+        "name": "Child Safety Car Seats & Accessories",
+        "amazon_id": 32,
+        "category": "Child Safety Car Seats & Accessories",
+        "price": 40.0,
+        "stock": 20,
+        "tags": [
+            "general"
+        ]
+    },
+    {
+        "sku": "AMZ-033",
+        "name": "Baby Safety Products",
+        "amazon_id": 33,
+        "category": "Baby Safety Products",
+        "price": 57.0,
+        "stock": 27,
+        "tags": [
+            "general",
+            "popular"
+        ]
+    },
+    {
+        "sku": "AMZ-034",
+        "name": "Toilet Training Products",
+        "amazon_id": 34,
+        "category": "Toilet Training Products",
+        "price": 74.0,
+        "stock": 34,
+        "tags": [
+            "general"
+        ]
+    },
+    {
+        "sku": "AMZ-035",
+        "name": "Baby Care Products",
+        "amazon_id": 35,
+        "category": "Baby Care Products",
+        "price": 91.0,
+        "stock": 41,
+        "tags": [
+            "general"
+        ]
+    },
+    {
+        "sku": "AMZ-036",
+        "name": "Baby Travel Gear",
+        "amazon_id": 36,
+        "category": "Baby Travel Gear",
+        "price": 108.0,
+        "stock": 48,
+        "tags": [
+            "general",
+            "popular",
+            "premium"
+        ]
+    },
+    {
+        "sku": "AMZ-038",
+        "name": "Baby Activity & Entertainment Products",
+        "amazon_id": 38,
+        "category": "Baby Activity & Entertainment Products",
+        "price": 142.0,
+        "stock": 11,
+        "tags": [
+            "general",
+            "premium"
+        ]
+    },
+    {
+        "sku": "AMZ-039",
+        "name": "Baby Gifts",
+        "amazon_id": 39,
+        "category": "Baby Gifts",
+        "price": 28.0,
+        "stock": 18,
+        "tags": [
+            "general",
+            "popular"
+        ]
+    },
+    {
+        "sku": "AMZ-040",
+        "name": "Baby Stationery",
+        "amazon_id": 40,
+        "category": "Baby Stationery",
+        "price": 45.0,
+        "stock": 25,
+        "tags": [
+            "general",
+            "electronics",
+            "wireless"
+        ]
+    },
+    {
+        "sku": "AMZ-041",
+        "name": "Nursery Furniture, Bedding & Décor",
+        "amazon_id": 41,
+        "category": "Nursery Furniture, Bedding & Décor",
+        "price": 62.0,
+        "stock": 32,
+        "tags": [
+            "general"
+        ]
+    },
+    {
+        "sku": "AMZ-042",
+        "name": "Baby",
+        "amazon_id": 42,
+        "category": "Baby",
+        "price": 79.0,
+        "stock": 39,
+        "tags": [
+            "general",
+            "popular"
+        ]
+    },
+    {
+        "sku": "AMZ-043",
+        "name": "Baby Boys' Clothing & Shoes",
+        "amazon_id": 43,
+        "category": "Baby Boys' Clothing & Shoes",
+        "price": 96.0,
+        "stock": 46,
+        "tags": [
+            "general"
+        ]
+    },
+    {
+        "sku": "AMZ-044",
+        "name": "Baby Strollers & Accessories",
+        "amazon_id": 44,
+        "category": "Baby Strollers & Accessories",
+        "price": 113.0,
+        "stock": 2,
+        "tags": [
+            "general",
+            "premium"
+        ]
+    },
+    {
+        "sku": "AMZ-045",
+        "name": "Beauty & Personal Care",
+        "amazon_id": 45,
+        "category": "Beauty & Personal Care",
+        "price": 130.0,
+        "stock": 9,
+        "tags": [
+            "general",
+            "popular",
+            "premium"
+        ]
+    },
+    {
+        "sku": "AMZ-046",
+        "name": "Perfumes & Fragrances",
+        "amazon_id": 46,
+        "category": "Perfumes & Fragrances",
+        "price": 147.0,
+        "stock": 16,
+        "tags": [
+            "general",
+            "premium"
+        ]
+    },
+    {
+        "sku": "AMZ-047",
+        "name": "Hair Care Products",
+        "amazon_id": 47,
+        "category": "Hair Care Products",
+        "price": 33.0,
+        "stock": 23,
+        "tags": [
+            "general"
+        ]
+    },
+    {
+        "sku": "AMZ-048",
+        "name": "Makeup",
+        "amazon_id": 48,
+        "category": "Makeup",
+        "price": 50.0,
+        "stock": 30,
+        "tags": [
+            "general",
+            "popular"
+        ]
+    },
+    {
+        "sku": "AMZ-049",
+        "name": "Skin Care Products",
+        "amazon_id": 49,
+        "category": "Skin Care Products",
+        "price": 67.0,
+        "stock": 37,
+        "tags": [
+            "general"
+        ]
+    },
+    {
+        "sku": "AMZ-050",
+        "name": "Beauty Tools & Accessories",
+        "amazon_id": 50,
+        "category": "Beauty Tools & Accessories",
+        "price": 84.0,
+        "stock": 44,
+        "tags": [
+            "general"
+        ]
+    },
+    {
+        "sku": "AMZ-051",
+        "name": "Foot, Hand & Nail Care Products",
+        "amazon_id": 51,
+        "category": "Foot, Hand & Nail Care Products",
+        "price": 101.0,
+        "stock": 0,
+        "tags": [
+            "general",
+            "popular",
+            "premium"
+        ]
+    },
+    {
+        "sku": "AMZ-052",
+        "name": "Personal Care Products",
+        "amazon_id": 52,
+        "category": "Personal Care Products",
+        "price": 118.0,
+        "stock": 7,
+        "tags": [
+            "general",
+            "premium"
+        ]
+    },
+    {
+        "sku": "AMZ-053",
+        "name": "Shaving & Hair Removal Products",
+        "amazon_id": 53,
+        "category": "Shaving & Hair Removal Products",
+        "price": 135.0,
+        "stock": 14,
+        "tags": [
+            "general",
+            "premium"
+        ]
+    },
+    {
+        "sku": "AMZ-054",
+        "name": "Computer Servers",
+        "amazon_id": 54,
+        "category": "Computer Servers",
+        "price": 21.0,
+        "stock": 21,
+        "tags": [
+            "electronics",
+            "popular"
+        ]
+    },
+    {
+        "sku": "AMZ-055",
+        "name": "Data Storage",
+        "amazon_id": 55,
+        "category": "Data Storage",
+        "price": 38.0,
+        "stock": 28,
+        "tags": [
+            "general"
+        ]
+    },
+    {
+        "sku": "AMZ-056",
+        "name": "Computer Monitors",
+        "amazon_id": 56,
+        "category": "Computer Monitors",
+        "price": 55.0,
+        "stock": 35,
+        "tags": [
+            "electronics"
+        ]
+    },
+    {
+        "sku": "AMZ-057",
+        "name": "Computers & Tablets",
+        "amazon_id": 57,
+        "category": "Computers & Tablets",
+        "price": 72.0,
+        "stock": 42,
+        "tags": [
+            "electronics",
+            "popular"
+        ]
+    },
+    {
+        "sku": "AMZ-058",
+        "name": "Tablet Replacement Parts",
+        "amazon_id": 58,
+        "category": "Tablet Replacement Parts",
+        "price": 89.0,
+        "stock": 49,
+        "tags": [
+            "crafts"
+        ]
+    },
+    {
+        "sku": "AMZ-060",
+        "name": "Computer Networking",
+        "amazon_id": 60,
+        "category": "Computer Networking",
+        "price": 123.0,
+        "stock": 12,
+        "tags": [
+            "electronics",
+            "popular",
+            "premium",
+            "wireless"
+        ]
+    },
+    {
+        "sku": "AMZ-063",
+        "name": "Computer Components",
+        "amazon_id": 63,
+        "category": "Computer Components",
+        "price": 43.0,
+        "stock": 33,
+        "tags": [
+            "electronics",
+            "popular"
+        ]
+    },
+    {
+        "sku": "AMZ-064",
+        "name": "Tablet Accessories",
+        "amazon_id": 64,
+        "category": "Tablet Accessories",
+        "price": 60.0,
+        "stock": 40,
+        "tags": [
+            "general"
+        ]
+    },
+    {
+        "sku": "AMZ-065",
+        "name": "Laptop Accessories",
+        "amazon_id": 65,
+        "category": "Laptop Accessories",
+        "price": 77.0,
+        "stock": 47,
+        "tags": [
+            "general"
+        ]
+    },
+    {
+        "sku": "AMZ-066",
+        "name": "Computer External Components",
+        "amazon_id": 66,
+        "category": "Computer External Components",
+        "price": 94.0,
+        "stock": 3,
+        "tags": [
+            "electronics",
+            "popular"
+        ]
+    },
+    {
+        "sku": "AMZ-068",
+        "name": "Wearable Technology",
+        "amazon_id": 68,
+        "category": "Wearable Technology",
+        "price": 128.0,
+        "stock": 17,
+        "tags": [
+            "general",
+            "premium"
+        ]
+    },
+    {
+        "sku": "AMZ-069",
+        "name": "Televisions & Video Products",
+        "amazon_id": 69,
+        "category": "Televisions & Video Products",
+        "price": 145.0,
+        "stock": 24,
+        "tags": [
+            "general",
+            "popular",
+            "premium"
+        ]
+    },
+    {
+        "sku": "AMZ-070",
+        "name": "GPS & Navigation",
+        "amazon_id": 70,
+        "category": "GPS & Navigation",
+        "price": 31.0,
+        "stock": 31,
+        "tags": [
+            "general"
+        ]
+    },
+    {
+        "sku": "AMZ-071",
+        "name": "Headphones & Earbuds",
+        "amazon_id": 71,
+        "category": "Headphones & Earbuds",
+        "price": 48.0,
+        "stock": 38,
+        "tags": [
+            "general"
+        ]
+    },
+    {
+        "sku": "AMZ-072",
+        "name": "Office Electronics",
+        "amazon_id": 72,
+        "category": "Office Electronics",
+        "price": 65.0,
+        "stock": 45,
+        "tags": [
+            "electronics",
+            "popular"
+        ]
+    },
+    {
+        "sku": "AMZ-073",
+        "name": "Portable Audio & Video",
+        "amazon_id": 73,
+        "category": "Portable Audio & Video",
+        "price": 82.0,
+        "stock": 1,
+        "tags": [
+            "general"
+        ]
+    },
+    {
+        "sku": "AMZ-074",
+        "name": "eBook Readers & Accessories",
+        "amazon_id": 74,
+        "category": "eBook Readers & Accessories",
+        "price": 99.0,
+        "stock": 8,
+        "tags": [
+            "general"
+        ]
+    },
+    {
+        "sku": "AMZ-075",
+        "name": "Cell Phones & Accessories",
+        "amazon_id": 75,
+        "category": "Cell Phones & Accessories",
+        "price": 116.0,
+        "stock": 15,
+        "tags": [
+            "general",
+            "popular",
+            "premium"
+        ]
+    },
+    {
+        "sku": "AMZ-076",
+        "name": "Accessories & Supplies",
+        "amazon_id": 76,
+        "category": "Accessories & Supplies",
+        "price": 133.0,
+        "stock": 22,
+        "tags": [
+            "general",
+            "premium"
+        ]
+    },
+    {
+        "sku": "AMZ-077",
+        "name": "Video Projectors",
+        "amazon_id": 77,
+        "category": "Video Projectors",
+        "price": 150.0,
+        "stock": 29,
+        "tags": [
+            "general",
+            "premium"
+        ]
+    },
+    {
+        "sku": "AMZ-078",
+        "name": "Vehicle Electronics",
+        "amazon_id": 78,
+        "category": "Vehicle Electronics",
+        "price": 36.0,
+        "stock": 36,
+        "tags": [
+            "electronics",
+            "popular"
+        ]
+    },
+    {
+        "sku": "AMZ-079",
+        "name": "Camera & Photo",
+        "amazon_id": 79,
+        "category": "Camera & Photo",
+        "price": 53.0,
+        "stock": 43,
+        "tags": [
+            "general"
+        ]
+    },
+    {
+        "sku": "AMZ-080",
+        "name": "Security & Surveillance Equipment",
+        "amazon_id": 80,
+        "category": "Security & Surveillance Equipment",
+        "price": 70.0,
+        "stock": 50,
+        "tags": [
+            "general",
+            "electronics",
+            "wireless"
+        ]
+    },
+    {
+        "sku": "AMZ-081",
+        "name": "Computers",
+        "amazon_id": 81,
+        "category": "Computers",
+        "price": 87.0,
+        "stock": 6,
+        "tags": [
+            "electronics",
+            "popular"
+        ]
+    },
+    {
+        "sku": "AMZ-082",
+        "name": "Home Audio & Theater Products",
+        "amazon_id": 82,
+        "category": "Home Audio & Theater Products",
+        "price": 104.0,
+        "stock": 13,
+        "tags": [
+            "home",
+            "premium"
+        ]
+    },
+    {
+        "sku": "AMZ-083",
+        "name": "Video Game Consoles & Accessories",
+        "amazon_id": 83,
+        "category": "Video Game Consoles & Accessories",
+        "price": 121.0,
+        "stock": 20,
+        "tags": [
+            "general",
+            "premium"
+        ]
+    },
+    {
+        "sku": "AMZ-084",
+        "name": "Boys' Clothing",
+        "amazon_id": 84,
+        "category": "Boys' Clothing",
+        "price": 138.0,
+        "stock": 27,
+        "tags": [
+            "general",
+            "popular",
+            "premium"
+        ]
+    },
+    {
+        "sku": "AMZ-087",
+        "name": "Boys' Accessories",
+        "amazon_id": 87,
+        "category": "Boys' Accessories",
+        "price": 58.0,
+        "stock": 48,
+        "tags": [
+            "general",
+            "popular"
+        ]
+    },
+    {
+        "sku": "AMZ-088",
+        "name": "Boys' Jewelry",
+        "amazon_id": 88,
+        "category": "Boys' Jewelry",
+        "price": 75.0,
+        "stock": 4,
+        "tags": [
+            "general"
+        ]
+    },
+    {
+        "sku": "AMZ-089",
+        "name": "Boys' Watches",
+        "amazon_id": 89,
+        "category": "Boys' Watches",
+        "price": 92.0,
+        "stock": 11,
+        "tags": [
+            "general"
+        ]
+    },
+    {
+        "sku": "AMZ-090",
+        "name": "Boys' Shoes",
+        "amazon_id": 90,
+        "category": "Boys' Shoes",
+        "price": 109.0,
+        "stock": 18,
+        "tags": [
+            "general",
+            "popular",
+            "premium"
+        ]
+    },
+    {
+        "sku": "AMZ-091",
+        "name": "Girls' Clothing",
+        "amazon_id": 91,
+        "category": "Girls' Clothing",
+        "price": 126.0,
+        "stock": 25,
+        "tags": [
+            "general",
+            "premium"
+        ]
+    },
+    {
+        "sku": "AMZ-094",
+        "name": "Girls' Accessories",
+        "amazon_id": 94,
+        "category": "Girls' Accessories",
+        "price": 46.0,
+        "stock": 46,
+        "tags": [
+            "general"
+        ]
+    },
+    {
+        "sku": "AMZ-095",
+        "name": "Girls' Jewelry",
+        "amazon_id": 95,
+        "category": "Girls' Jewelry",
+        "price": 63.0,
+        "stock": 2,
+        "tags": [
+            "general"
+        ]
+    },
+    {
+        "sku": "AMZ-096",
+        "name": "Girls' Watches",
+        "amazon_id": 96,
+        "category": "Girls' Watches",
+        "price": 80.0,
+        "stock": 9,
+        "tags": [
+            "general",
+            "popular"
+        ]
+    },
+    {
+        "sku": "AMZ-097",
+        "name": "Girls' Shoes",
+        "amazon_id": 97,
+        "category": "Girls' Shoes",
+        "price": 97.0,
+        "stock": 16,
+        "tags": [
+            "general"
+        ]
+    },
+    {
+        "sku": "AMZ-098",
+        "name": "Girls' School Uniforms",
+        "amazon_id": 98,
+        "category": "Girls' School Uniforms",
+        "price": 114.0,
+        "stock": 23,
+        "tags": [
+            "general",
+            "premium"
+        ]
+    },
+    {
+        "sku": "AMZ-099",
+        "name": "Travel Duffel Bags",
+        "amazon_id": 99,
+        "category": "Travel Duffel Bags",
+        "price": 131.0,
+        "stock": 30,
+        "tags": [
+            "general",
+            "popular",
+            "premium"
+        ]
+    },
+    {
+        "sku": "AMZ-100",
+        "name": "Messenger Bags",
+        "amazon_id": 100,
+        "category": "Messenger Bags",
+        "price": 148.0,
+        "stock": 37,
+        "tags": [
+            "general",
+            "premium"
+        ]
+    },
+    {
+        "sku": "AMZ-101",
+        "name": "Travel Tote Bags",
+        "amazon_id": 101,
+        "category": "Travel Tote Bags",
+        "price": 34.0,
+        "stock": 44,
+        "tags": [
+            "general"
+        ]
+    },
+    {
+        "sku": "AMZ-102",
+        "name": "Garment Bags",
+        "amazon_id": 102,
+        "category": "Garment Bags",
+        "price": 51.0,
+        "stock": 0,
+        "tags": [
+            "general",
+            "popular"
+        ]
+    },
+    {
+        "sku": "AMZ-103",
+        "name": "Luggage Sets",
+        "amazon_id": 103,
+        "category": "Luggage Sets",
+        "price": 68.0,
+        "stock": 7,
+        "tags": [
+            "general"
+        ]
+    },
+    {
+        "sku": "AMZ-104",
+        "name": "Suitcases",
+        "amazon_id": 104,
+        "category": "Suitcases",
+        "price": 85.0,
+        "stock": 14,
+        "tags": [
+            "general"
+        ]
+    },
+    {
+        "sku": "AMZ-105",
+        "name": "Travel Accessories",
+        "amazon_id": 105,
+        "category": "Travel Accessories",
+        "price": 102.0,
+        "stock": 21,
+        "tags": [
+            "general",
+            "popular",
+            "premium"
+        ]
+    },
+    {
+        "sku": "AMZ-106",
+        "name": "Rain Umbrellas",
+        "amazon_id": 106,
+        "category": "Rain Umbrellas",
+        "price": 119.0,
+        "stock": 28,
+        "tags": [
+            "general",
+            "premium"
+        ]
+    },
+    {
+        "sku": "AMZ-107",
+        "name": "Backpacks",
+        "amazon_id": 107,
+        "category": "Backpacks",
+        "price": 136.0,
+        "stock": 35,
+        "tags": [
+            "general",
+            "premium"
+        ]
+    },
+    {
+        "sku": "AMZ-108",
+        "name": "Luggage",
+        "amazon_id": 108,
+        "category": "Luggage",
+        "price": 22.0,
+        "stock": 42,
+        "tags": [
+            "general",
+            "popular"
+        ]
+    },
+    {
+        "sku": "AMZ-109",
+        "name": "Laptop Bags",
+        "amazon_id": 109,
+        "category": "Laptop Bags",
+        "price": 39.0,
+        "stock": 49,
+        "tags": [
+            "general"
+        ]
+    },
+    {
+        "sku": "AMZ-110",
+        "name": "Men's Clothing",
+        "amazon_id": 110,
+        "category": "Men's Clothing",
+        "price": 56.0,
+        "stock": 5,
+        "tags": [
+            "general"
+        ]
+    },
+    {
+        "sku": "AMZ-112",
+        "name": "Men's Accessories",
+        "amazon_id": 112,
+        "category": "Men's Accessories",
+        "price": 90.0,
+        "stock": 19,
+        "tags": [
+            "general"
+        ]
+    },
+    {
+        "sku": "AMZ-113",
+        "name": "Men's Watches",
+        "amazon_id": 113,
+        "category": "Men's Watches",
+        "price": 107.0,
+        "stock": 26,
+        "tags": [
+            "general",
+            "premium"
+        ]
+    },
+    {
+        "sku": "AMZ-114",
+        "name": "Men's Shoes",
+        "amazon_id": 114,
+        "category": "Men's Shoes",
+        "price": 124.0,
+        "stock": 33,
+        "tags": [
+            "general",
+            "popular",
+            "premium"
+        ]
+    },
+    {
+        "sku": "AMZ-116",
+        "name": "Women's Clothing",
+        "amazon_id": 116,
+        "category": "Women's Clothing",
+        "price": 27.0,
+        "stock": 47,
+        "tags": [
+            "general"
+        ]
+    },
+    {
+        "sku": "AMZ-118",
+        "name": "Women's Handbags",
+        "amazon_id": 118,
+        "category": "Women's Handbags",
+        "price": 61.0,
+        "stock": 10,
+        "tags": [
+            "general"
+        ]
+    },
+    {
+        "sku": "AMZ-120",
+        "name": "Women's Accessories",
+        "amazon_id": 120,
+        "category": "Women's Accessories",
+        "price": 95.0,
+        "stock": 24,
+        "tags": [
+            "general",
+            "popular"
+        ]
+    },
+    {
+        "sku": "AMZ-121",
+        "name": "Women's Watches",
+        "amazon_id": 121,
+        "category": "Women's Watches",
+        "price": 112.0,
+        "stock": 31,
+        "tags": [
+            "general",
+            "premium"
+        ]
+    },
+    {
+        "sku": "AMZ-122",
+        "name": "Women's Shoes",
+        "amazon_id": 122,
+        "category": "Women's Shoes",
+        "price": 129.0,
+        "stock": 38,
+        "tags": [
+            "general",
+            "premium"
+        ]
+    },
+    {
+        "sku": "AMZ-123",
+        "name": "Women's Jewelry",
+        "amazon_id": 123,
+        "category": "Women's Jewelry",
+        "price": 146.0,
+        "stock": 45,
+        "tags": [
+            "general",
+            "popular",
+            "premium"
+        ]
+    },
+    {
+        "sku": "AMZ-124",
+        "name": "Kids' Furniture",
+        "amazon_id": 124,
+        "category": "Kids' Furniture",
+        "price": 32.0,
+        "stock": 1,
+        "tags": [
+            "general"
+        ]
+    },
+    {
+        "sku": "AMZ-125",
+        "name": "Gift Cards",
+        "amazon_id": 125,
+        "category": "Gift Cards",
+        "price": 49.0,
+        "stock": 8,
+        "tags": [
+            "general"
+        ]
+    },
+    {
+        "sku": "AMZ-126",
+        "name": "Oral Care Products",
+        "amazon_id": 126,
+        "category": "Oral Care Products",
+        "price": 66.0,
+        "stock": 15,
+        "tags": [
+            "general",
+            "popular"
+        ]
+    },
+    {
+        "sku": "AMZ-127",
+        "name": "Vision Products",
+        "amazon_id": 127,
+        "category": "Vision Products",
+        "price": 83.0,
+        "stock": 22,
+        "tags": [
+            "general"
+        ]
+    },
+    {
+        "sku": "AMZ-128",
+        "name": "Wellness & Relaxation Products",
+        "amazon_id": 128,
+        "category": "Wellness & Relaxation Products",
+        "price": 100.0,
+        "stock": 29,
+        "tags": [
+            "general"
+        ]
+    },
+    {
+        "sku": "AMZ-129",
+        "name": "Baby & Child Care Products",
+        "amazon_id": 129,
+        "category": "Baby & Child Care Products",
+        "price": 117.0,
+        "stock": 36,
+        "tags": [
+            "general",
+            "popular",
+            "premium"
+        ]
+    },
+    {
+        "sku": "AMZ-130",
+        "name": "Household Supplies",
+        "amazon_id": 130,
+        "category": "Household Supplies",
+        "price": 134.0,
+        "stock": 43,
+        "tags": [
+            "general",
+            "premium"
+        ]
+    },
+    {
+        "sku": "AMZ-131",
+        "name": "Health Care Products",
+        "amazon_id": 131,
+        "category": "Health Care Products",
+        "price": 20.0,
+        "stock": 50,
+        "tags": [
+            "general"
+        ]
+    },
+    {
+        "sku": "AMZ-132",
+        "name": "Diet & Sports Nutrition",
+        "amazon_id": 132,
+        "category": "Diet & Sports Nutrition",
+        "price": 37.0,
+        "stock": 6,
+        "tags": [
+            "general",
+            "popular"
+        ]
+    },
+    {
+        "sku": "AMZ-133",
+        "name": "Home Use Medical Supplies & Equipment",
+        "amazon_id": 133,
+        "category": "Home Use Medical Supplies & Equipment",
+        "price": 54.0,
+        "stock": 13,
+        "tags": [
+            "home"
+        ]
+    },
+    {
+        "sku": "AMZ-134",
+        "name": "Sexual Wellness Products",
+        "amazon_id": 134,
+        "category": "Sexual Wellness Products",
+        "price": 71.0,
+        "stock": 20,
+        "tags": [
+            "general"
+        ]
+    },
+    {
+        "sku": "AMZ-135",
+        "name": "Health & Household",
+        "amazon_id": 135,
+        "category": "Health & Household",
+        "price": 88.0,
+        "stock": 27,
+        "tags": [
+            "general",
+            "popular"
+        ]
+    },
+    {
+        "sku": "AMZ-136",
+        "name": "Sports Nutrition Products",
+        "amazon_id": 136,
+        "category": "Sports Nutrition Products",
+        "price": 105.0,
+        "stock": 34,
+        "tags": [
+            "general",
+            "premium"
+        ]
+    },
+    {
+        "sku": "AMZ-137",
+        "name": "Stationery & Gift Wrapping Supplies",
+        "amazon_id": 137,
+        "category": "Stationery & Gift Wrapping Supplies",
+        "price": 122.0,
+        "stock": 41,
+        "tags": [
+            "general",
+            "premium"
+        ]
+    },
+    {
+        "sku": "AMZ-138",
+        "name": "Commercial Door Products",
+        "amazon_id": 138,
+        "category": "Commercial Door Products",
+        "price": 139.0,
+        "stock": 48,
+        "tags": [
+            "general",
+            "popular",
+            "premium"
+        ]
+    },
+    {
+        "sku": "AMZ-139",
+        "name": "Power Transmission Products",
+        "amazon_id": 139,
+        "category": "Power Transmission Products",
+        "price": 25.0,
+        "stock": 4,
+        "tags": [
+            "general"
+        ]
+    },
+    {
+        "sku": "AMZ-140",
+        "name": "Industrial Materials",
+        "amazon_id": 140,
+        "category": "Industrial Materials",
+        "price": 42.0,
+        "stock": 11,
+        "tags": [
+            "general"
+        ]
+    },
+    {
+        "sku": "AMZ-141",
+        "name": "Industrial Hardware",
+        "amazon_id": 141,
+        "category": "Industrial Hardware",
+        "price": 59.0,
+        "stock": 18,
+        "tags": [
+            "general",
+            "popular"
+        ]
+    },
+    {
+        "sku": "AMZ-142",
+        "name": "Abrasive & Finishing Products",
+        "amazon_id": 142,
+        "category": "Abrasive & Finishing Products",
+        "price": 76.0,
+        "stock": 25,
+        "tags": [
+            "general"
+        ]
+    },
+    {
+        "sku": "AMZ-143",
+        "name": "Industrial Adhesives, Sealants & Lubricants",
+        "amazon_id": 143,
+        "category": "Industrial Adhesives, Sealants & Lubricants",
+        "price": 93.0,
+        "stock": 32,
+        "tags": [
+            "general"
+        ]
+    },
+    {
+        "sku": "AMZ-144",
+        "name": "Material Handling Products",
+        "amazon_id": 144,
+        "category": "Material Handling Products",
+        "price": 110.0,
+        "stock": 39,
+        "tags": [
+            "general",
+            "popular",
+            "premium"
+        ]
+    },
+    {
+        "sku": "AMZ-145",
+        "name": "Test, Measure & Inspect",
+        "amazon_id": 145,
+        "category": "Test, Measure & Inspect",
+        "price": 127.0,
+        "stock": 46,
+        "tags": [
+            "general",
+            "premium"
+        ]
+    },
+    {
+        "sku": "AMZ-146",
+        "name": "Industrial Power & Hand Tools",
+        "amazon_id": 146,
+        "category": "Industrial Power & Hand Tools",
+        "price": 144.0,
+        "stock": 2,
+        "tags": [
+            "general",
+            "premium"
+        ]
+    },
+    {
+        "sku": "AMZ-147",
+        "name": "Hydraulics, Pneumatics & Plumbing",
+        "amazon_id": 147,
+        "category": "Hydraulics, Pneumatics & Plumbing",
+        "price": 30.0,
+        "stock": 9,
+        "tags": [
+            "general",
+            "popular"
+        ]
+    },
+    {
+        "sku": "AMZ-148",
+        "name": "Filtration",
+        "amazon_id": 148,
+        "category": "Filtration",
+        "price": 47.0,
+        "stock": 16,
+        "tags": [
+            "general"
+        ]
+    },
+    {
+        "sku": "AMZ-149",
+        "name": "Electronic Components",
+        "amazon_id": 149,
+        "category": "Electronic Components",
+        "price": 64.0,
+        "stock": 23,
+        "tags": [
+            "general"
+        ]
+    },
+    {
+        "sku": "AMZ-150",
+        "name": "Lab & Scientific Products",
+        "amazon_id": 150,
+        "category": "Lab & Scientific Products",
+        "price": 81.0,
+        "stock": 30,
+        "tags": [
+            "general",
+            "popular"
+        ]
+    },
+    {
+        "sku": "AMZ-151",
+        "name": "Janitorial & Sanitation Supplies",
+        "amazon_id": 151,
+        "category": "Janitorial & Sanitation Supplies",
+        "price": 98.0,
+        "stock": 37,
+        "tags": [
+            "general"
+        ]
+    },
+    {
+        "sku": "AMZ-152",
+        "name": "Occupational Health & Safety Products",
+        "amazon_id": 152,
+        "category": "Occupational Health & Safety Products",
+        "price": 115.0,
+        "stock": 44,
+        "tags": [
+            "general",
+            "premium"
+        ]
+    },
+    {
+        "sku": "AMZ-153",
+        "name": "Cutting Tools",
+        "amazon_id": 153,
+        "category": "Cutting Tools",
+        "price": 132.0,
+        "stock": 0,
+        "tags": [
+            "general",
+            "popular",
+            "premium"
+        ]
+    },
+    {
+        "sku": "AMZ-154",
+        "name": "Fasteners",
+        "amazon_id": 154,
+        "category": "Fasteners",
+        "price": 149.0,
+        "stock": 7,
+        "tags": [
+            "general",
+            "premium"
+        ]
+    },
+    {
+        "sku": "AMZ-155",
+        "name": "Science Education Supplies",
+        "amazon_id": 155,
+        "category": "Science Education Supplies",
+        "price": 35.0,
+        "stock": 14,
+        "tags": [
+            "general"
+        ]
+    },
+    {
+        "sku": "AMZ-156",
+        "name": "Food Service Equipment & Supplies",
+        "amazon_id": 156,
+        "category": "Food Service Equipment & Supplies",
+        "price": 52.0,
+        "stock": 21,
+        "tags": [
+            "general",
+            "popular"
+        ]
+    },
+    {
+        "sku": "AMZ-157",
+        "name": "Additive Manufacturing Products",
+        "amazon_id": 157,
+        "category": "Additive Manufacturing Products",
+        "price": 69.0,
+        "stock": 28,
+        "tags": [
+            "general"
+        ]
+    },
+    {
+        "sku": "AMZ-158",
+        "name": "Professional Medical Supplies",
+        "amazon_id": 158,
+        "category": "Professional Medical Supplies",
+        "price": 86.0,
+        "stock": 35,
+        "tags": [
+            "general"
+        ]
+    },
+    {
+        "sku": "AMZ-159",
+        "name": "Professional Dental Supplies",
+        "amazon_id": 159,
+        "category": "Professional Dental Supplies",
+        "price": 103.0,
+        "stock": 42,
+        "tags": [
+            "general",
+            "popular",
+            "premium"
+        ]
+    },
+    {
+        "sku": "AMZ-160",
+        "name": "Packaging & Shipping Supplies",
+        "amazon_id": 160,
+        "category": "Packaging & Shipping Supplies",
+        "price": 120.0,
+        "stock": 49,
+        "tags": [
+            "general",
+            "premium"
+        ]
+    },
+    {
+        "sku": "AMZ-161",
+        "name": "Retail Store Fixtures & Equipment",
+        "amazon_id": 161,
+        "category": "Retail Store Fixtures & Equipment",
+        "price": 137.0,
+        "stock": 5,
+        "tags": [
+            "general",
+            "premium"
+        ]
+    },
+    {
+        "sku": "AMZ-162",
+        "name": "Industrial & Scientific",
+        "amazon_id": 162,
+        "category": "Industrial & Scientific",
+        "price": 23.0,
+        "stock": 12,
+        "tags": [
+            "general",
+            "popular"
+        ]
+    },
+    {
+        "sku": "AMZ-163",
+        "name": "Bath Products",
+        "amazon_id": 163,
+        "category": "Bath Products",
+        "price": 40.0,
+        "stock": 19,
+        "tags": [
+            "general"
+        ]
+    },
+    {
+        "sku": "AMZ-164",
+        "name": "Bedding",
+        "amazon_id": 164,
+        "category": "Bedding",
+        "price": 57.0,
+        "stock": 26,
+        "tags": [
+            "general"
+        ]
+    },
+    {
+        "sku": "AMZ-165",
+        "name": "Home Décor Products",
+        "amazon_id": 165,
+        "category": "Home Décor Products",
+        "price": 74.0,
+        "stock": 33,
+        "tags": [
+            "home",
+            "popular"
+        ]
+    },
+    {
+        "sku": "AMZ-166",
+        "name": "Furniture",
+        "amazon_id": 166,
+        "category": "Furniture",
+        "price": 91.0,
+        "stock": 40,
+        "tags": [
+            "general"
+        ]
+    },
+    {
+        "sku": "AMZ-167",
+        "name": "Household Cleaning Supplies",
+        "amazon_id": 167,
+        "category": "Household Cleaning Supplies",
+        "price": 108.0,
+        "stock": 47,
+        "tags": [
+            "general",
+            "premium"
+        ]
+    },
+    {
+        "sku": "AMZ-168",
+        "name": "Seasonal Décor",
+        "amazon_id": 168,
+        "category": "Seasonal Décor",
+        "price": 125.0,
+        "stock": 3,
+        "tags": [
+            "general",
+            "popular",
+            "premium"
+        ]
+    },
+    {
+        "sku": "AMZ-169",
+        "name": "Home Lighting & Ceiling Fans",
+        "amazon_id": 169,
+        "category": "Home Lighting & Ceiling Fans",
+        "price": 142.0,
+        "stock": 10,
+        "tags": [
+            "home",
+            "premium"
+        ]
+    },
+    {
+        "sku": "AMZ-170",
+        "name": "Kitchen & Dining",
+        "amazon_id": 170,
+        "category": "Kitchen & Dining",
+        "price": 28.0,
+        "stock": 17,
+        "tags": [
+            "general"
+        ]
+    },
+    {
+        "sku": "AMZ-171",
+        "name": "Heating, Cooling & Air Quality",
+        "amazon_id": 171,
+        "category": "Heating, Cooling & Air Quality",
+        "price": 45.0,
+        "stock": 24,
+        "tags": [
+            "general",
+            "popular"
+        ]
+    },
+    {
+        "sku": "AMZ-172",
+        "name": "Kids' Home Store",
+        "amazon_id": 172,
+        "category": "Kids' Home Store",
+        "price": 62.0,
+        "stock": 31,
+        "tags": [
+            "home"
+        ]
+    },
+    {
+        "sku": "AMZ-173",
+        "name": "Home Storage & Organization",
+        "amazon_id": 173,
+        "category": "Home Storage & Organization",
+        "price": 79.0,
+        "stock": 38,
+        "tags": [
+            "home"
+        ]
+    },
+    {
+        "sku": "AMZ-174",
+        "name": "Wall Art",
+        "amazon_id": 174,
+        "category": "Wall Art",
+        "price": 96.0,
+        "stock": 45,
+        "tags": [
+            "crafts",
+            "popular"
+        ]
+    },
+    {
+        "sku": "AMZ-175",
+        "name": "Vacuum Cleaners & Floor Care",
+        "amazon_id": 175,
+        "category": "Vacuum Cleaners & Floor Care",
+        "price": 113.0,
+        "stock": 1,
+        "tags": [
+            "general",
+            "premium"
+        ]
+    },
+    {
+        "sku": "AMZ-176",
+        "name": "Ironing Products",
+        "amazon_id": 176,
+        "category": "Ironing Products",
+        "price": 130.0,
+        "stock": 8,
+        "tags": [
+            "general",
+            "premium"
+        ]
+    },
+    {
+        "sku": "AMZ-177",
+        "name": "Party Supplies",
+        "amazon_id": 177,
+        "category": "Party Supplies",
+        "price": 147.0,
+        "stock": 15,
+        "tags": [
+            "crafts",
+            "popular",
+            "premium"
+        ]
+    },
+    {
+        "sku": "AMZ-178",
+        "name": "Pet Bird Supplies",
+        "amazon_id": 178,
+        "category": "Pet Bird Supplies",
+        "price": 33.0,
+        "stock": 22,
+        "tags": [
+            "general"
+        ]
+    },
+    {
+        "sku": "AMZ-179",
+        "name": "Cat Supplies",
+        "amazon_id": 179,
+        "category": "Cat Supplies",
+        "price": 50.0,
+        "stock": 29,
+        "tags": [
+            "general"
+        ]
+    },
+    {
+        "sku": "AMZ-180",
+        "name": "Dog Supplies",
+        "amazon_id": 180,
+        "category": "Dog Supplies",
+        "price": 67.0,
+        "stock": 36,
+        "tags": [
+            "general",
+            "popular"
+        ]
+    },
+    {
+        "sku": "AMZ-181",
+        "name": "Fish & Aquatic Pets",
+        "amazon_id": 181,
+        "category": "Fish & Aquatic Pets",
+        "price": 84.0,
+        "stock": 43,
+        "tags": [
+            "general"
+        ]
+    },
+    {
+        "sku": "AMZ-182",
+        "name": "Horse Supplies",
+        "amazon_id": 182,
+        "category": "Horse Supplies",
+        "price": 101.0,
+        "stock": 50,
+        "tags": [
+            "general",
+            "premium"
+        ]
+    },
+    {
+        "sku": "AMZ-183",
+        "name": "Reptiles & Amphibian Supplies",
+        "amazon_id": 183,
+        "category": "Reptiles & Amphibian Supplies",
+        "price": 118.0,
+        "stock": 6,
+        "tags": [
+            "general",
+            "popular",
+            "premium"
+        ]
+    },
+    {
+        "sku": "AMZ-184",
+        "name": "Small Animal Supplies",
+        "amazon_id": 184,
+        "category": "Small Animal Supplies",
+        "price": 135.0,
+        "stock": 13,
+        "tags": [
+            "general",
+            "premium"
+        ]
+    },
+    {
+        "sku": "AMZ-185",
+        "name": "Smart Home: New Smart Devices",
+        "amazon_id": 185,
+        "category": "Smart Home: New Smart Devices",
+        "price": 21.0,
+        "stock": 20,
+        "tags": [
+            "crafts",
+            "home"
+        ]
+    },
+    {
+        "sku": "AMZ-186",
+        "name": "Smart Home: Voice Assistants and Hubs",
+        "amazon_id": 186,
+        "category": "Smart Home: Voice Assistants and Hubs",
+        "price": 38.0,
+        "stock": 27,
+        "tags": [
+            "crafts",
+            "home"
+        ]
+    },
+    {
+        "sku": "AMZ-187",
+        "name": "Smart Home: Smart Locks and Entry",
+        "amazon_id": 187,
+        "category": "Smart Home: Smart Locks and Entry",
+        "price": 55.0,
+        "stock": 34,
+        "tags": [
+            "crafts",
+            "home"
+        ]
+    },
+    {
+        "sku": "AMZ-188",
+        "name": "Smart Home: Home Entertainment",
+        "amazon_id": 188,
+        "category": "Smart Home: Home Entertainment",
+        "price": 72.0,
+        "stock": 41,
+        "tags": [
+            "crafts",
+            "home"
+        ]
+    },
+    {
+        "sku": "AMZ-189",
+        "name": "Smart Home: WiFi and Networking",
+        "amazon_id": 189,
+        "category": "Smart Home: WiFi and Networking",
+        "price": 89.0,
+        "stock": 48,
+        "tags": [
+            "crafts",
+            "home"
+        ]
+    },
+    {
+        "sku": "AMZ-190",
+        "name": "Smart Home: Security Cameras and Systems",
+        "amazon_id": 190,
+        "category": "Smart Home: Security Cameras and Systems",
+        "price": 106.0,
+        "stock": 4,
+        "tags": [
+            "crafts",
+            "home",
+            "premium"
+        ]
+    },
+    {
+        "sku": "AMZ-191",
+        "name": "Smart Home: Lighting",
+        "amazon_id": 191,
+        "category": "Smart Home: Lighting",
+        "price": 123.0,
+        "stock": 11,
+        "tags": [
+            "crafts",
+            "home",
+            "premium"
+        ]
+    },
+    {
+        "sku": "AMZ-192",
+        "name": "Smart Home: Plugs and Outlets",
+        "amazon_id": 192,
+        "category": "Smart Home: Plugs and Outlets",
+        "price": 140.0,
+        "stock": 18,
+        "tags": [
+            "crafts",
+            "home",
+            "premium"
+        ]
+    },
+    {
+        "sku": "AMZ-193",
+        "name": "Smart Home: Vacuums and Mops",
+        "amazon_id": 193,
+        "category": "Smart Home: Vacuums and Mops",
+        "price": 26.0,
+        "stock": 25,
+        "tags": [
+            "crafts",
+            "home"
+        ]
+    },
+    {
+        "sku": "AMZ-194",
+        "name": "Smart Home Thermostats - Compatibility Checker",
+        "amazon_id": 194,
+        "category": "Smart Home Thermostats - Compatibility Checker",
+        "price": 43.0,
+        "stock": 32,
+        "tags": [
+            "crafts",
+            "home"
+        ]
+    },
+    {
+        "sku": "AMZ-195",
+        "name": "Smart Home: Lawn and Garden",
+        "amazon_id": 195,
+        "category": "Smart Home: Lawn and Garden",
+        "price": 60.0,
+        "stock": 39,
+        "tags": [
+            "crafts",
+            "home"
+        ]
+    },
+    {
+        "sku": "AMZ-196",
+        "name": "Smart Home: Other Solutions",
+        "amazon_id": 196,
+        "category": "Smart Home: Other Solutions",
+        "price": 77.0,
+        "stock": 46,
+        "tags": [
+            "crafts",
+            "home"
+        ]
+    },
+    {
+        "sku": "AMZ-197",
+        "name": "Smart Home - Heating & Cooling",
+        "amazon_id": 197,
+        "category": "Smart Home - Heating & Cooling",
+        "price": 94.0,
+        "stock": 2,
+        "tags": [
+            "crafts",
+            "home"
+        ]
+    },
+    {
+        "sku": "AMZ-198",
+        "name": "Sports & Fitness",
+        "amazon_id": 198,
+        "category": "Sports & Fitness",
+        "price": 111.0,
+        "stock": 9,
+        "tags": [
+            "general",
+            "popular",
+            "premium"
+        ]
+    },
+    {
+        "sku": "AMZ-199",
+        "name": "Outdoor Recreation",
+        "amazon_id": 199,
+        "category": "Outdoor Recreation",
+        "price": 128.0,
+        "stock": 16,
+        "tags": [
+            "general",
+            "premium"
+        ]
+    },
+    {
+        "sku": "AMZ-200",
+        "name": "Sports & Outdoors",
+        "amazon_id": 200,
+        "category": "Sports & Outdoors",
+        "price": 145.0,
+        "stock": 23,
+        "tags": [
+            "general",
+            "premium"
+        ]
+    },
+    {
+        "sku": "AMZ-201",
+        "name": "Home Appliances",
+        "amazon_id": 201,
+        "category": "Home Appliances",
+        "price": 31.0,
+        "stock": 30,
+        "tags": [
+            "home",
+            "popular"
+        ]
+    },
+    {
+        "sku": "AMZ-203",
+        "name": "Pumps & Plumbing Equipment",
+        "amazon_id": 203,
+        "category": "Pumps & Plumbing Equipment",
+        "price": 65.0,
+        "stock": 44,
+        "tags": [
+            "general"
+        ]
+    },
+    {
+        "sku": "AMZ-204",
+        "name": "Paint, Wall Treatments & Supplies",
+        "amazon_id": 204,
+        "category": "Paint, Wall Treatments & Supplies",
+        "price": 82.0,
+        "stock": 0,
+        "tags": [
+            "general",
+            "popular"
+        ]
+    },
+    {
+        "sku": "AMZ-205",
+        "name": "Safety & Security",
+        "amazon_id": 205,
+        "category": "Safety & Security",
+        "price": 99.0,
+        "stock": 7,
+        "tags": [
+            "general"
+        ]
+    },
+    {
+        "sku": "AMZ-206",
+        "name": "Light Bulbs",
+        "amazon_id": 206,
+        "category": "Light Bulbs",
+        "price": 116.0,
+        "stock": 14,
+        "tags": [
+            "general",
+            "premium"
+        ]
+    },
+    {
+        "sku": "AMZ-207",
+        "name": "Power Tools & Hand Tools",
+        "amazon_id": 207,
+        "category": "Power Tools & Hand Tools",
+        "price": 133.0,
+        "stock": 21,
+        "tags": [
+            "general",
+            "popular",
+            "premium"
+        ]
+    },
+    {
+        "sku": "AMZ-208",
+        "name": "Kitchen & Bath Fixtures",
+        "amazon_id": 208,
+        "category": "Kitchen & Bath Fixtures",
+        "price": 150.0,
+        "stock": 28,
+        "tags": [
+            "general",
+            "premium"
+        ]
+    },
+    {
+        "sku": "AMZ-209",
+        "name": "Lighting & Ceiling Fans",
+        "amazon_id": 209,
+        "category": "Lighting & Ceiling Fans",
+        "price": 36.0,
+        "stock": 35,
+        "tags": [
+            "general"
+        ]
+    },
+    {
+        "sku": "AMZ-210",
+        "name": "Electrical Equipment",
+        "amazon_id": 210,
+        "category": "Electrical Equipment",
+        "price": 53.0,
+        "stock": 42,
+        "tags": [
+            "general",
+            "popular"
+        ]
+    },
+    {
+        "sku": "AMZ-211",
+        "name": "Hardware",
+        "amazon_id": 211,
+        "category": "Hardware",
+        "price": 70.0,
+        "stock": 49,
+        "tags": [
+            "general"
+        ]
+    },
+    {
+        "sku": "AMZ-212",
+        "name": "Building Supplies",
+        "amazon_id": 212,
+        "category": "Building Supplies",
+        "price": 87.0,
+        "stock": 5,
+        "tags": [
+            "general"
+        ]
+    },
+    {
+        "sku": "AMZ-213",
+        "name": "Measuring & Layout",
+        "amazon_id": 213,
+        "category": "Measuring & Layout",
+        "price": 104.0,
+        "stock": 12,
+        "tags": [
+            "general",
+            "popular",
+            "premium"
+        ]
+    },
+    {
+        "sku": "AMZ-214",
+        "name": "Welding & Soldering",
+        "amazon_id": 214,
+        "category": "Welding & Soldering",
+        "price": 121.0,
+        "stock": 19,
+        "tags": [
+            "general",
+            "premium"
+        ]
+    },
+    {
+        "sku": "AMZ-215",
+        "name": "Tools & Home Improvement",
+        "amazon_id": 215,
+        "category": "Tools & Home Improvement",
+        "price": 138.0,
+        "stock": 26,
+        "tags": [
+            "home",
+            "premium"
+        ]
+    },
+    {
+        "sku": "AMZ-216",
+        "name": "Kids' Party Supplies",
+        "amazon_id": 216,
+        "category": "Kids' Party Supplies",
+        "price": 24.0,
+        "stock": 33,
+        "tags": [
+            "crafts",
+            "popular"
+        ]
+    },
+    {
+        "sku": "AMZ-217",
+        "name": "Toy Figures & Playsets",
+        "amazon_id": 217,
+        "category": "Toy Figures & Playsets",
+        "price": 41.0,
+        "stock": 40,
+        "tags": [
+            "general"
+        ]
+    },
+    {
+        "sku": "AMZ-218",
+        "name": "Novelty Toys & Amusements",
+        "amazon_id": 218,
+        "category": "Novelty Toys & Amusements",
+        "price": 58.0,
+        "stock": 47,
+        "tags": [
+            "general"
+        ]
+    },
+    {
+        "sku": "AMZ-219",
+        "name": "Arts & Crafts Supplies",
+        "amazon_id": 219,
+        "category": "Arts & Crafts Supplies",
+        "price": 75.0,
+        "stock": 3,
+        "tags": [
+            "crafts",
+            "popular"
+        ]
+    },
+    {
+        "sku": "AMZ-220",
+        "name": "Building Toys",
+        "amazon_id": 220,
+        "category": "Building Toys",
+        "price": 92.0,
+        "stock": 10,
+        "tags": [
+            "general"
+        ]
+    },
+    {
+        "sku": "AMZ-221",
+        "name": "Dolls & Accessories",
+        "amazon_id": 221,
+        "category": "Dolls & Accessories",
+        "price": 109.0,
+        "stock": 17,
+        "tags": [
+            "general",
+            "premium"
+        ]
+    },
+    {
+        "sku": "AMZ-222",
+        "name": "Kids' Electronics",
+        "amazon_id": 222,
+        "category": "Kids' Electronics",
+        "price": 126.0,
+        "stock": 24,
+        "tags": [
+            "electronics",
+            "popular",
+            "premium"
+        ]
+    },
+    {
+        "sku": "AMZ-223",
+        "name": "Games & Accessories",
+        "amazon_id": 223,
+        "category": "Games & Accessories",
+        "price": 143.0,
+        "stock": 31,
+        "tags": [
+            "general",
+            "premium"
+        ]
+    },
+    {
+        "sku": "AMZ-224",
+        "name": "Learning & Education Toys",
+        "amazon_id": 224,
+        "category": "Learning & Education Toys",
+        "price": 29.0,
+        "stock": 38,
+        "tags": [
+            "general"
+        ]
+    },
+    {
+        "sku": "AMZ-225",
+        "name": "Kids' Dress Up & Pretend Play",
+        "amazon_id": 225,
+        "category": "Kids' Dress Up & Pretend Play",
+        "price": 46.0,
+        "stock": 45,
+        "tags": [
+            "general",
+            "popular"
+        ]
+    },
+    {
+        "sku": "AMZ-226",
+        "name": "Puppets & Puppet Theaters",
+        "amazon_id": 226,
+        "category": "Puppets & Puppet Theaters",
+        "price": 63.0,
+        "stock": 1,
+        "tags": [
+            "general"
+        ]
+    },
+    {
+        "sku": "AMZ-227",
+        "name": "Puzzles",
+        "amazon_id": 227,
+        "category": "Puzzles",
+        "price": 80.0,
+        "stock": 8,
+        "tags": [
+            "general"
+        ]
+    },
+    {
+        "sku": "AMZ-228",
+        "name": "Sports & Outdoor Play Toys",
+        "amazon_id": 228,
+        "category": "Sports & Outdoor Play Toys",
+        "price": 97.0,
+        "stock": 15,
+        "tags": [
+            "general",
+            "popular"
+        ]
+    },
+    {
+        "sku": "AMZ-229",
+        "name": "Stuffed Animals & Plush Toys",
+        "amazon_id": 229,
+        "category": "Stuffed Animals & Plush Toys",
+        "price": 114.0,
+        "stock": 22,
+        "tags": [
+            "general",
+            "premium"
+        ]
+    },
+    {
+        "sku": "AMZ-230",
+        "name": "Baby & Toddler Toys",
+        "amazon_id": 230,
+        "category": "Baby & Toddler Toys",
+        "price": 131.0,
+        "stock": 29,
+        "tags": [
+            "general",
+            "premium"
+        ]
+    },
+    {
+        "sku": "AMZ-231",
+        "name": "Tricycles, Scooters & Wagons",
+        "amazon_id": 231,
+        "category": "Tricycles, Scooters & Wagons",
+        "price": 148.0,
+        "stock": 36,
+        "tags": [
+            "general",
+            "popular",
+            "premium"
+        ]
+    },
+    {
+        "sku": "AMZ-232",
+        "name": "Finger Toys",
+        "amazon_id": 232,
+        "category": "Finger Toys",
+        "price": 34.0,
+        "stock": 43,
+        "tags": [
+            "general"
+        ]
+    },
+    {
+        "sku": "AMZ-233",
+        "name": "Toy Vehicle Playsets",
+        "amazon_id": 233,
+        "category": "Toy Vehicle Playsets",
+        "price": 51.0,
+        "stock": 50,
+        "tags": [
+            "general"
+        ]
+    },
+    {
+        "sku": "AMZ-234",
+        "name": "Kids' Play Trains & Trams",
+        "amazon_id": 234,
+        "category": "Kids' Play Trains & Trams",
+        "price": 68.0,
+        "stock": 6,
+        "tags": [
+            "general",
+            "popular"
+        ]
+    },
+    {
+        "sku": "AMZ-235",
+        "name": "Kids' Play Trucks",
+        "amazon_id": 235,
+        "category": "Kids' Play Trucks",
+        "price": 85.0,
+        "stock": 13,
+        "tags": [
+            "general"
+        ]
+    },
+    {
+        "sku": "AMZ-236",
+        "name": "Kids' Play Cars & Race Cars",
+        "amazon_id": 236,
+        "category": "Kids' Play Cars & Race Cars",
+        "price": 102.0,
+        "stock": 20,
+        "tags": [
+            "general",
+            "premium"
+        ]
+    },
+    {
+        "sku": "AMZ-237",
+        "name": "Kids' Play Boats",
+        "amazon_id": 237,
+        "category": "Kids' Play Boats",
+        "price": 119.0,
+        "stock": 27,
+        "tags": [
+            "general",
+            "popular",
+            "premium"
+        ]
+    },
+    {
+        "sku": "AMZ-238",
+        "name": "Kids' Play Buses",
+        "amazon_id": 238,
+        "category": "Kids' Play Buses",
+        "price": 136.0,
+        "stock": 34,
+        "tags": [
+            "general",
+            "premium"
+        ]
+    },
+    {
+        "sku": "AMZ-239",
+        "name": "Kids' Play Tractors",
+        "amazon_id": 239,
+        "category": "Kids' Play Tractors",
+        "price": 22.0,
+        "stock": 41,
+        "tags": [
+            "general"
+        ]
+    },
+    {
+        "sku": "AMZ-240",
+        "name": "Slot Cars, Race Tracks & Accessories",
+        "amazon_id": 240,
+        "category": "Slot Cars, Race Tracks & Accessories",
+        "price": 39.0,
+        "stock": 48,
+        "tags": [
+            "general",
+            "popular"
+        ]
+    },
+    {
+        "sku": "AMZ-241",
+        "name": "Sony PSP Games, Consoles & Accessories",
+        "amazon_id": 241,
+        "category": "Sony PSP Games, Consoles & Accessories",
+        "price": 56.0,
+        "stock": 4,
+        "tags": [
+            "general"
+        ]
+    },
+    {
+        "sku": "AMZ-242",
+        "name": "Nintendo DS Games, Consoles & Accessories",
+        "amazon_id": 242,
+        "category": "Nintendo DS Games, Consoles & Accessories",
+        "price": 73.0,
+        "stock": 11,
+        "tags": [
+            "general"
+        ]
+    },
+    {
+        "sku": "AMZ-243",
+        "name": "PlayStation 3 Games, Consoles & Accessories",
+        "amazon_id": 243,
+        "category": "PlayStation 3 Games, Consoles & Accessories",
+        "price": 90.0,
+        "stock": 18,
+        "tags": [
+            "general",
+            "popular"
+        ]
+    },
+    {
+        "sku": "AMZ-244",
+        "name": "Wii Games, Consoles & Accessories",
+        "amazon_id": 244,
+        "category": "Wii Games, Consoles & Accessories",
+        "price": 107.0,
+        "stock": 25,
+        "tags": [
+            "general",
+            "premium"
+        ]
+    },
+    {
+        "sku": "AMZ-245",
+        "name": "Xbox 360 Games, Consoles & Accessories",
+        "amazon_id": 245,
+        "category": "Xbox 360 Games, Consoles & Accessories",
+        "price": 124.0,
+        "stock": 32,
+        "tags": [
+            "general",
+            "premium"
+        ]
+    },
+    {
+        "sku": "AMZ-248",
+        "name": "Mac Games & Accessories",
+        "amazon_id": 248,
+        "category": "Mac Games & Accessories",
+        "price": 44.0,
+        "stock": 2,
+        "tags": [
+            "general"
+        ]
+    },
+    {
+        "sku": "AMZ-249",
+        "name": "Nintendo 3DS & 2DS Consoles, Games & Accessories",
+        "amazon_id": 249,
+        "category": "Nintendo 3DS & 2DS Consoles, Games & Accessories",
+        "price": 61.0,
+        "stock": 9,
+        "tags": [
+            "general",
+            "popular"
+        ]
+    },
+    {
+        "sku": "AMZ-250",
+        "name": "Legacy Systems",
+        "amazon_id": 250,
+        "category": "Legacy Systems",
+        "price": 78.0,
+        "stock": 16,
+        "tags": [
+            "general"
+        ]
+    },
+    {
+        "sku": "AMZ-251",
+        "name": "PlayStation Vita Games, Consoles & Accessories",
+        "amazon_id": 251,
+        "category": "PlayStation Vita Games, Consoles & Accessories",
+        "price": 95.0,
+        "stock": 23,
+        "tags": [
+            "general"
+        ]
+    },
+    {
+        "sku": "AMZ-252",
+        "name": "Wii U Games, Consoles & Accessories",
+        "amazon_id": 252,
+        "category": "Wii U Games, Consoles & Accessories",
+        "price": 112.0,
+        "stock": 30,
+        "tags": [
+            "general",
+            "popular",
+            "premium"
+        ]
+    },
+    {
+        "sku": "AMZ-253",
+        "name": "PlayStation 4 Games, Consoles & Accessories",
+        "amazon_id": 253,
+        "category": "PlayStation 4 Games, Consoles & Accessories",
+        "price": 129.0,
+        "stock": 37,
+        "tags": [
+            "general",
+            "premium"
+        ]
+    },
+    {
+        "sku": "AMZ-254",
+        "name": "Xbox One Games, Consoles & Accessories",
+        "amazon_id": 254,
+        "category": "Xbox One Games, Consoles & Accessories",
+        "price": 146.0,
+        "stock": 44,
+        "tags": [
+            "general",
+            "premium"
+        ]
+    },
+    {
+        "sku": "AMZ-255",
+        "name": "Video Games",
+        "amazon_id": 255,
+        "category": "Video Games",
+        "price": 32.0,
+        "stock": 0,
+        "tags": [
+            "general",
+            "popular"
+        ]
+    },
+    {
+        "sku": "AMZ-256",
+        "name": "Online Video Game Services",
+        "amazon_id": 256,
+        "category": "Online Video Game Services",
+        "price": 49.0,
+        "stock": 7,
+        "tags": [
+            "general"
+        ]
+    },
+    {
+        "sku": "AMZ-259",
+        "name": "Virtual Reality Hardware & Accessories",
+        "amazon_id": 259,
+        "category": "Virtual Reality Hardware & Accessories",
+        "price": 100.0,
+        "stock": 28,
+        "tags": [
+            "general"
+        ]
+    },
+    {
+        "sku": "AMZ-260",
+        "name": "Nintendo Switch Consoles, Games & Accessories",
+        "amazon_id": 260,
+        "category": "Nintendo Switch Consoles, Games & Accessories",
+        "price": 117.0,
+        "stock": 35,
+        "tags": [
+            "general",
+            "premium"
+        ]
+    },
+    {
+        "sku": "AMZ-261",
+        "name": "PlayStation 5 Consoles, Games & Accessories",
+        "amazon_id": 261,
+        "category": "PlayStation 5 Consoles, Games & Accessories",
+        "price": 134.0,
+        "stock": 42,
+        "tags": [
+            "general",
+            "popular",
+            "premium"
+        ]
+    },
+    {
+        "sku": "AMZ-262",
+        "name": "Xbox Series X & S Consoles, Games & Accessories",
+        "amazon_id": 262,
+        "category": "Xbox Series X & S Consoles, Games & Accessories",
+        "price": 20.0,
+        "stock": 49,
+        "tags": [
+            "general"
+        ]
+    },
+    {
+        "sku": "AMZ-263",
+        "name": "PC Games & Accessories",
+        "amazon_id": 263,
+        "category": "PC Games & Accessories",
+        "price": 37.0,
+        "stock": 5,
+        "tags": [
+            "general"
+        ]
+    },
+    {
+        "sku": "AMZ-264",
+        "name": "Baby Girls' Clothing & Shoes",
+        "amazon_id": 264,
+        "category": "Baby Girls' Clothing & Shoes",
+        "price": 54.0,
+        "stock": 12,
+        "tags": [
+            "general",
+            "popular"
+        ]
+    },
+    {
+        "sku": "AMZ-265",
+        "name": "Boys' School Uniforms",
+        "amazon_id": 265,
+        "category": "Boys' School Uniforms",
+        "price": 71.0,
+        "stock": 19,
+        "tags": [
+            "general"
+        ]
+    },
+    {
+        "sku": "AMZ-270",
+        "name": "Toys & Games",
+        "amazon_id": 270,
+        "category": "Toys & Games",
+        "price": 25.0,
+        "stock": 3,
+        "tags": [
+            "general",
+            "popular"
+        ]
+    }
+]

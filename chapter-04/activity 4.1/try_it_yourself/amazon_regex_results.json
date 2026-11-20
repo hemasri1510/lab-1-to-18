@@ -1,0 +1,27 @@
+[
+    {
+        "sku": "AMZ-009",
+        "name": "Arts, Crafts & Sewing Storage",
+        "amazon_id": 9,
+        "category": "Arts, Crafts & Sewing Storage",
+        "price": 42.0,
+        "stock": 12,
+        "tags": [
+            "crafts",
+            "popular"
+        ]
+    },
+    {
+        "sku": "AMZ-006",
+        "name": "Sewing Products",
+        "amazon_id": 6,
+        "category": "Sewing Products",
+        "price": 122.0,
+        "stock": 42,
+        "tags": [
+            "crafts",
+            "popular",
+            "premium"
+        ]
+    }
+]

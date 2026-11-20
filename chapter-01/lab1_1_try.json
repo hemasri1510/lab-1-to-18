@@ -1,0 +1,23 @@
+[
+  {
+    "Product": "ScyllaDB",
+    "Family": "Column-Family Store (Wide-Column) + Key-Value",
+    "Reason": "Cassandra-compatible, stores data in wide rows, key-based access. Spans 2 families.",
+    "Best For": "High-throughput, low latency, gaming, ad-tech",
+    "Limitation": "Complex tuning, eventual consistency"
+  },
+  {
+    "Product": "InfluxDB",
+    "Family": "Time-Series (Column-Family variant)",
+    "Reason": "Optimized for timestamped data, not pure 4 families. Closest to Column-Family.",
+    "Best For": "IoT sensors, monitoring, metrics",
+    "Limitation": "Not good for general documents or graphs"
+  },
+  {
+    "Product": "ArangoDB",
+    "Family": "Multi-Model - Document + Graph + Key-Value",
+    "Reason": "Spans 3 families. Can store JSON documents, graphs and key-values in one DB.",
+    "Best For": "Apps needing document + graph together",
+    "Limitation": "Mastering all models is complex"
+  }
+]

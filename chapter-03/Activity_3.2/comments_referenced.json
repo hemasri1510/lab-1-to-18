@@ -1,0 +1,120 @@
+[{
+  "_id": {
+    "$oid": "6a9ef0ca7f0ffb0e3f453949"
+  },
+  "comment_id": 1,
+  "post_id": 1,
+  "author": "Kavya",
+  "text": "This place looks amazing!",
+  "created_at": {
+    "$date": "2026-09-01T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a9ef0ca7f0ffb0e3f45394a"
+  },
+  "comment_id": 2,
+  "post_id": 1,
+  "author": "Neha",
+  "text": "I would love to visit this place.",
+  "created_at": {
+    "$date": "2026-09-01T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a9ef0ca7f0ffb0e3f45394b"
+  },
+  "comment_id": 3,
+  "post_id": 2,
+  "author": "Arjun",
+  "text": "Your setup looks really clean.",
+  "created_at": {
+    "$date": "2026-09-02T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a9ef0ca7f0ffb0e3f45394c"
+  },
+  "comment_id": 4,
+  "post_id": 2,
+  "author": "Vikram",
+  "text": "The setup is simple and nice.",
+  "created_at": {
+    "$date": "2026-09-02T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a9ef0ca7f0ffb0e3f45394d"
+  },
+  "comment_id": 5,
+  "post_id": 3,
+  "author": "Sneha",
+  "text": "The food looks delicious!",
+  "created_at": {
+    "$date": "2026-09-03T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a9ef0ca7f0ffb0e3f45394e"
+  },
+  "comment_id": 6,
+  "post_id": 3,
+  "author": "Divya",
+  "text": "Great photography skills.",
+  "created_at": {
+    "$date": "2026-09-03T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a9ef0ca7f0ffb0e3f45394f"
+  },
+  "comment_id": 7,
+  "post_id": 4,
+  "author": "Rahul",
+  "text": "Nature always looks beautiful.",
+  "created_at": {
+    "$date": "2026-09-04T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a9ef0ca7f0ffb0e3f453950"
+  },
+  "comment_id": 8,
+  "post_id": 4,
+  "author": "Kavya",
+  "text": "Such a peaceful view!",
+  "created_at": {
+    "$date": "2026-09-04T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a9ef0ca7f0ffb0e3f453951"
+  },
+  "comment_id": 9,
+  "post_id": 5,
+  "author": "Neha",
+  "text": "Nice travel video.",
+  "created_at": {
+    "$date": "2026-09-05T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a9ef0ca7f0ffb0e3f453952"
+  },
+  "comment_id": 10,
+  "post_id": 5,
+  "author": "Arjun",
+  "text": "This makes me want to travel.",
+  "created_at": {
+    "$date": "2026-09-05T00:00:00.000Z"
+  }
+}]

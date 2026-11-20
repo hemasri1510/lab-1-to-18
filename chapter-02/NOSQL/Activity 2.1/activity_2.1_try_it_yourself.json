@@ -1,0 +1,13 @@
+{
+  "activity": "2.1",
+  "type": "Try It Yourself",
+  "docker_mongodb": {
+    "status": "Connected",
+    "version": "8.3.7"
+  },
+  "mongodb_atlas": {
+    "status": "Connected",
+    "version": "8.3.7"
+  },
+  "version_comparison": "Both MongoDB servers use the same version."
+}

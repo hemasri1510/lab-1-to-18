@@ -1,0 +1,12 @@
+services:
+  mongodb:
+    image: mongo:8.0
+    container_name: exp7-mongodb
+    restart: unless-stopped
+    ports:
+      - "27017:27017"
+    command: ["mongod", "--bind_ip_all"]
+    volumes:
+      - exp7-mongo-data:/data/db
+volumes:
+  exp7-mongo-data:

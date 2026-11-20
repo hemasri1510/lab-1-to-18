@@ -1,0 +1,40 @@
+services:
+  mongo1:
+    image: mongo:8.0
+    container_name: mongo1
+    command: ["mongod", "--replSet", "rs0", "--bind_ip_all"]
+    expose:
+      - "27017"
+    networks:
+      - mongo-cluster
+
+  mongo2:
+    image: mongo:8.0
+    container_name: mongo2
+    command: ["mongod", "--replSet", "rs0", "--bind_ip_all"]
+    expose:
+      - "27017"
+    networks:
+      - mongo-cluster
+
+  mongo3:
+    image: mongo:8.0
+    container_name: mongo3
+    command: ["mongod", "--replSet", "rs0", "--bind_ip_all"]
+    expose:
+      - "27017"
+    networks:
+      - mongo-cluster
+
+  mongo4:
+    image: mongo:8.0
+    container_name: mongo4
+    command: ["mongod", "--replSet", "rs0", "--bind_ip_all"]
+    expose:
+      - "27017"
+    networks:
+      - mongo-cluster
+
+networks:
+  mongo-cluster:
+    driver: bridge

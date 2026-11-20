@@ -1,0 +1,62 @@
+[
+    {
+        "sku": "AMZ-ID-001",
+        "active": true,
+        "amazon_id": 1,
+        "category": "Beading & Jewelry Making",
+        "name": "Beading & Jewelry Making",
+        "price": 37.0,
+        "stock": 7,
+        "tags": [
+            "general"
+        ]
+    },
+    {
+        "sku": "AMZ-ID-002",
+        "active": true,
+        "amazon_id": 2,
+        "category": "Fabric Decorating",
+        "name": "Fabric Decorating",
+        "price": 54.0,
+        "stock": 14,
+        "tags": [
+            "general"
+        ]
+    },
+    {
+        "sku": "AMZ-ID-003",
+        "active": true,
+        "amazon_id": 3,
+        "category": "Knitting & Crochet Supplies",
+        "name": "Knitting & Crochet Supplies",
+        "price": 71.0,
+        "stock": 21,
+        "tags": [
+            "general"
+        ]
+    },
+    {
+        "sku": "AMZ-ID-004",
+        "active": true,
+        "amazon_id": 4,
+        "category": "Printmaking Supplies",
+        "name": "Printmaking Supplies",
+        "price": 88.0,
+        "stock": 28,
+        "tags": [
+            "general"
+        ]
+    },
+    {
+        "sku": "AMZ-ID-005",
+        "active": true,
+        "amazon_id": 5,
+        "category": "Scrapbooking & Stamping Supplies",
+        "name": "Scrapbooking & Stamping Supplies",
+        "price": 105.0,
+        "stock": 35,
+        "tags": [
+            "general"
+        ]
+    }
+]
